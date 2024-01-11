@@ -1,5 +1,7 @@
 # Dice-Game
 
+Dice-Game is a simple, fun, and interactive dice game built with HTML, CSS, and JavaScript. This project was created for learning purposes, showcasing the use of basic web development technologies and interactive JavaScript features.
+
 Play it here: https://lvlad27.github.io/Dice-Game/
 
 ## Features
